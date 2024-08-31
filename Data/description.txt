@@ -1,0 +1,25 @@
+Here is a detailed explanation of each column in our DataFrame
+
+1. `Subject Age Group`: The age range of the subject involved in the Terry Stop (e.g., "18 - 25", "36 - 45").  
+2. `Subject ID`: A unique identifier assigned to the subject of the Terry Stop.  
+3. `GO / SC Num`: An internal case or record number associated with the incident.  
+4. `Terry Stop ID`: A unique identifier for the specific Terry Stop event.  
+5. `Stop Resolution`: The outcome or resolution of the Terry Stop (e.g., "Arrest", "Field Contact", "Offense Report").  
+6. `Weapon Type`: The type of weapon found, if any, during the stop (e.g., "None", "Firearm", "Knife").  
+7. `Officer ID`: A unique identifier assigned to the officer conducting the stop.  
+8. `Officer YOB`: The year of birth of the officer involved in the stop.  
+9. `Officer Gender`: The gender of the officer (e.g., "M" for Male, "F" for Female).  
+10. `Officer Race`: The race or ethnicity of the officer (e.g., "White", "Black or African American", "Asian").  
+11. `Subject Perceived Race`: The race or ethnicity of the subject as perceived by the officer (e.g., "White", "Black or African American", "Asian").  
+12. `Subject Perceived Gender`: The gender of the subject as perceived by the officer (e.g., "Male", "Female").  
+13. `Reported Date`: The date on which the Terry Stop was reported.  
+14. `Reported Time`: The time at which the Terry Stop was reported (e.g., "08:03:00.0000000").  
+15. `Initial Call Type`: The type of the initial call that led to the Terry Stop (e.g., "ASLT - PERSON SHOT OR SHOT AT").  
+16. `Final Call Type`: The final classification of the call after the incident was resolved (e.g., "DRIVE BY SHOOTING - NO INJURIES").  
+17. `Call Type`: The nature of the call, usually indicating whether it was a 911 call or another type (e.g., "911").  
+18. `Officer Squad`: The squad or unit to which the officer belongs.  
+19. `Arrest Flag`: Indicates whether an arrest was made during the stop (Y for Yes, N for No).  
+20. `Frisk Flag`: Indicates whether a frisk or search was conducted during the stop (Y for Yes, N for No).  
+21. `Precinct`: The police precinct where the Terry Stop occurred.  
+22. `Sector`: A smaller geographical area within the precinct.  
+23. `Beat`: The specific patrol area or beat within the sector.  
